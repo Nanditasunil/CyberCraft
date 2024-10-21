@@ -23,6 +23,4 @@ const { clear } = flags;
 	// footer to show when the program is finished
 
 	const chalk = (await import(`chalk`)).default;
-
-	
 })();

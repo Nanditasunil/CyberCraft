@@ -4,7 +4,11 @@
 node_modules/
 /node_modules/
 image.png
-
+aes_encrypted.png
+des_encrypted.png
+logistic_encrypted.png
+keys/
+/keys
 # Packages #
 ############
 *.7z
