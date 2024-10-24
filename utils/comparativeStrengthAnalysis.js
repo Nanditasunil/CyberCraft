@@ -13,9 +13,9 @@ const readKeyFromFile = (path) => {
 
 // Define algorithms and their corresponding key files
 const algorithms = [
-    { path: './keys/key.txt', algorithm: 'AES' },
-    { path: './keys/key2.txt', algorithm: 'DES' },
-    { path: './keys/key3.txt', algorithm: 'Chaotic Logistic' }
+    { path: './keys/aes_key.txt', algorithm: 'AES' },
+    { path: './keys/des_key.txt', algorithm: 'DES' },
+    { path: './keys/logistic_key.txt', algorithm: 'Chaotic Logistic' }
 ];
 
 // Store results

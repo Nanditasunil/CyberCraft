@@ -9,6 +9,8 @@ des_encrypted.png
 logistic_encrypted.png
 keys/
 /keys
+/images
+images/
 # Packages #
 ############
 *.7z
